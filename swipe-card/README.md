@@ -1,7 +1,7 @@
 # Lovelace swipe card
 
 A Lovelace card that uses [swiper](http://idangero.us/swiper/) to create a touch slider that lets you flick through multiple cards.
-You can use (almost?) all options of swiper, these can be found [here](http://idangero.us/swiper/api/).
+You can use (almost?) all options of swiper, these can be found [here](https://swiperjs.com/swiper-api).
 
 ## Installation:
 
